@@ -2,13 +2,11 @@
 
 ###
 
-<div align="center">
-  <img height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBva2ttazhhdndtazhwazNycmp3anNjOXQyM2h3b3IyZmNqdjBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif"  />
-</div>
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBva2ttazhhdndtazhwazNycmp3anNjOXQyM2h3b3IyZmNqdjBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
