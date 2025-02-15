@@ -1,14 +1,14 @@
-<h2 align="left"># Hello World. I'm Ana, be very welcome!</h2>
+<h2 align="left"># Hello World. I'm Ana, be very welcome!✨</h2>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBva2ttazhhdndtazhwazNycmp3anNjOXQyM2h3b3IyZmNqdjBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif"  />
+  <img height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBva2ttazhhdndtazhwazNycmp3anNjOXQyM2h3b3IyZmNqdjBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -58,6 +58,10 @@
 </div>
 
 ###
+<div align="center">
+<img src="https://raw.githubusercontent.com/analauramarques/analauramarques/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 <!--
 **analauramarques/analauramarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
